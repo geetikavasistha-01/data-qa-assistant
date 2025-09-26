@@ -1,0 +1,29 @@
+# Core dependencies
+streamlit==1.49.0
+python-dotenv==1.1.1
+
+# Supabase & Database
+supabase==2.20.0
+psycopg2-binary==2.9.10
+
+# OpenAI for AI features
+openai==1.108.1
+
+# Data processing
+pandas==2.3.2
+numpy==2.3.3
+scikit-learn==1.7.2
+
+# Visualization
+plotly==5.18.0
+
+# Additional utilities
+pydantic==2.5.3
+python-dateutil==2.8.2
+requests==2.31.0
+
+# For vector embeddings
+tiktoken==0.5.2
+
+# Session management
+streamlit-authenticator==0.3.1
